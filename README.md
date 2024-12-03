@@ -1,2 +1,2 @@
-# bananagrabs
-A React / ASP.NET web app to record Bananagram games!
+# Bananagrabs
+A React / ASP.NET web app to store your Bananagram games

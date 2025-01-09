@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bananagrab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f814cf363a9160cd14595132a12a85867553e77f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d2d2d57d2d323d5f82b846a9c7bae7472b237e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("bananagrab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bananagrab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

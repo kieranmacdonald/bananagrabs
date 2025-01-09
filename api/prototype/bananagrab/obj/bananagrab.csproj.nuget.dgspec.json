@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/bananagrab.csproj": {}
+    "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/bananagrab.csproj": {}
   },
   "projects": {
-    "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/bananagrab.csproj": {
+    "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/bananagrab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/bananagrab.csproj",
+        "projectUniqueName": "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/bananagrab.csproj",
         "projectName": "bananagrab",
-        "projectPath": "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/bananagrab.csproj",
+        "projectPath": "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/bananagrab.csproj",
         "packagesPath": "/Users/kieran/.nuget/packages/",
-        "outputPath": "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/obj/",
+        "outputPath": "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kieran/.nuget/NuGet/NuGet.Config"

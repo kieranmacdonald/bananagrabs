@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wq0G8ACfM6Y=",
+  "dgSpecHash": "fB8XEFm97Y0=",
   "success": true,
-  "projectFilePath": "/Users/kieran/Desktop/bananagrabs/api/test/bananagrab/bananagrab.csproj",
+  "projectFilePath": "/Users/kieran/Desktop/bananagrabs/api/prototype/bananagrab/bananagrab.csproj",
   "expectedPackageFiles": [
     "/Users/kieran/.nuget/packages/google.api.commonprotos/2.15.0/google.api.commonprotos.2.15.0.nupkg.sha512",
     "/Users/kieran/.nuget/packages/google.api.gax/4.8.0/google.api.gax.4.8.0.nupkg.sha512",
